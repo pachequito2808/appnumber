@@ -1,0 +1,20 @@
+{
+  "name": "taller",
+  "version": "1.0.0",
+  "description": "app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon corriendo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ivan",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.3.8"
+  }
+}
